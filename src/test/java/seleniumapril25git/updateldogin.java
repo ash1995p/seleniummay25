@@ -2,7 +2,8 @@ package seleniumapril25git;
 
 public class updateldogin {
 
-	  
+	  int i=10;
+	  int j=100;
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
