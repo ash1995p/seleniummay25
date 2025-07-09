@@ -4,6 +4,11 @@ public class updateldogin {
 
 	  int i=10;
 	  int j=100;
+	  
+	  
+	  int k=100;
+	  int a= 200;
+	  int z=300;
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
