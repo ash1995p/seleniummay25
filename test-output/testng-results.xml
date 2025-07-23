@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2025-07-17T15:39:52Z" finished-at="2025-07-17T15:39:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2025-07-17T15:39:52Z" finished-at="2025-07-17T15:39:52Z">
+      <class name="parametertesng.test12">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:parametertesng.test12@3796751b]" name="loginTest" duration-ms="0" started-at="2025-07-17T21:09:52Z" finished-at="2025-07-17T21:09:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- parametertesng.test12 -->
+      <class name="parametertesng.test11">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:parametertesng.test11@2acf57e3]" name="loginTest" duration-ms="16" started-at="2025-07-17T21:09:52Z" finished-at="2025-07-17T21:09:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- parametertesng.test11 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
